@@ -2,6 +2,7 @@
   "name": "immutable-rx-store-model",
   "version": "0.0.0",
   "scripts": {
+    "preinstall": "node scripts/preinstall.script.js",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
